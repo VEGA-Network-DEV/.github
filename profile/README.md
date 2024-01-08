@@ -4,11 +4,12 @@
 
 ## VEGA Network 
 
-Сеть, которая превратилась в сообщество с собственной внутренней архитектурой.
+A network that has transformed into a community with its own internal architecture.
 
-У нас есть следующее проекты в наличии: VEGA Host (хостинг для любых игровых серверов) и VEGA Servers (игровые серверы).
+We have the following projects available: Vilbux (hosting for any game servers) and Create Adventure (game server).
 
-### Какие планы/цель данного проекта?
-Создание масового сообщества, а также франшизы цель которой объеденить все внутреные системы сообщества
+### What are the plans/goals of this project?
 
-Также, мы предоставляем услуги хостинга/партнерства и сотрудничества, пишите по данному поводу сюда: veganetworkmain@gmail.com
+To create a massive community and franchise whose goal is to unite all internal systems of the community.
+
+Additionally, we provide hosting/partnership and collaboration services. Feel free to contact us regarding this at veganetworkmain@gmail.com.
